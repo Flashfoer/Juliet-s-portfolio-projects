@@ -6,7 +6,7 @@ This is my portfolio website, which showcases my skills and progress as a web de
 * About:
        This section provides more detailed information about my background and skills, including my education.
 
-*Skills:
+* Skills:
       This section highlights some of my skills including html css and R
 
 * Portfolio:
