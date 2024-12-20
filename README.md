@@ -5,8 +5,10 @@ This is my portfolio website, which showcases my skills and progress as a web de
        This section provides an overview of my skills and includes a brief biography.
 * About:
        This section provides more detailed information about my background and skills, including my education.
+
 *Skills:
       This section highlights some of my skills including html css and R
+
 * Portfolio:
         This section showcases my portfolio of projects, including links and descriptions of each project: Furthermore, detailed information about each project including the technologies and styles used are included.
   
